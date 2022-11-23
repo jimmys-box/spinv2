@@ -1,0 +1,29 @@
+{
+  "name": "spintop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "html-react-parser": "^3.0.4",
+    "next": "^12.3.3",
+    "pm2": "^5.2.2",
+    "rc-slider": "^10.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-stars": "^2.2.5",
+    "sass": "^1.56.1",
+    "swiper": "^8.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.3"
+  }
+}
